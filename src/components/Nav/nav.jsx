@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom"
 import './nav.css'
+
+
 export const Nav = () => {
   return (<nav>  
     <ul className="nav-list">

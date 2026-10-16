@@ -4,4 +4,29 @@
   text-align: center;
   font-size: 14px;
   color: #6c757d;
+
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.footer-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 20px;
+
+}
+
+.footer-nav li {
+  cursor: pointer;
+  color: #cbd5e1;
+}
+
+.footer-nav li:hover {
+  color: #38bdf8;
 }

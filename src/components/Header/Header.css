@@ -1,4 +1,24 @@
-.logo {
-    width: 15px;
-    height: 15px;
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:#1a2644;
+  padding: 1rem 2rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.logo-container a {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.logo-container img {
+  width: 40px;  
+  height: 40px;
+  object-fit: contain;
 }

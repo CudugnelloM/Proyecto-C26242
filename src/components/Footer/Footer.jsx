@@ -2,8 +2,8 @@ import "./Footer.css";
 
 export const Footer = () => {
   return (
-    <footer>
-        <nav>
+    <footer className="footer">
+        <nav className="footer-nav">
             <ul>
                 <li>Whatsapp</li>
                 <li>Instagram</li>

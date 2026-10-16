@@ -1,34 +1,34 @@
 [
     {
         "id": "1",
-        "name": "Product 1",
-        "description": "This is the description for Product 1.",
-        "price": 19.99,
-        "image": "https://via.placeholder.com/150",
+        "name": "E-Reader Paperwhite",
+        "description": "Disfruta de tu lectura sin reflejos bajo la luz del sol. Pantalla de alta resolución y batería de larga duración.",
+        "price": 53099,
+        "image": "/img/footware/E-Reader.webp",
         "category": "Category 1"
     },
     {
         "id": "2",
-        "name": "Product 2",
-        "description": "This is the description for Product 2.",
-        "price": 29.99,
-        "image": "https://via.placeholder.com/150",
+        "name": "Tablet Pro 10\"",
+        "description": "Potencia y versatilidad para tu día a día. Pantalla Retina, gran rendimiento multitarea y diseño ultra delgado.",
+        "price": 1059159,
+        "image": "/img/footware/ipad.jpg",
         "category": "Category 2"
     },
     {
         "id": "3",
-        "name": "Product 3",
-        "description": "This is the description for Product 3.",
-        "price": 39.99,
-        "image": "https://via.placeholder.com/150",
+        "name": "Notebook Ultrabook",
+        "description": "Diseñada para la productividad en movimiento. Procesador de alta velocidad, teclado retroiluminado y gran almacenamiento.",
+        "price": 394597.99,
+        "image": "/img/footware/notebook.jpg",
         "category": "Category 1"
     },
     {
         "id": "4",
-        "name": "Product 4",
-        "description": "This is the description for Product 4.",
-        "price": 49.99,
-        "image": "https://via.placeholder.com/150",
+        "name": "Smart TV 4K UHD",
+        "description": "Vive una experiencia cinematográfica en casa. Colores vibrantes, sonido envolvente y acceso directo a tus plataformas de streaming.",
+        "price": 499000.99,
+        "image": "/img/footware/smart tv.jpg",
         "category": "Category 2"
     }
 ]

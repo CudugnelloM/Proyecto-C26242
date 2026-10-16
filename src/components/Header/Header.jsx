@@ -1,6 +1,6 @@
 import { Link } from  "react-router-dom"
 import logo from '../../assets/logo.png'
-import './header.css'
+import './Header.css'
 import { Nav } from '../Nav/nav.jsx'
 
 export const Header = () => {
@@ -9,7 +9,7 @@ export const Header = () => {
         <div className="logo-container"> 
           <Link to="/">
             <img src={logo} alt="Logo react"/>
-            <span>Reactiva</span>
+            <span>Shop ku</span>
           </Link>  
         </div>
         <Nav />
